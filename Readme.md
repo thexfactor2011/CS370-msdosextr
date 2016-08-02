@@ -9,6 +9,6 @@ However the data files within each floppy volume, are still stored within the Un
 You have to search for the specification of the MSDOS file system so that you can create a program that will be able to produce catalog listings of each floppy image and be able to extract the files from the image.
 
 ### How to run
-`make cc`
-`msdosextr sample.bin`
+* `make cc`
+* `msdosextr sample.bin`
 
